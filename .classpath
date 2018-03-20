@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Persistence/src"/>
+	<classpathentry kind="lib" path="C:/Users/akosm/eclipse-workspace/JarFiles (1)/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akosm/eclipse-workspace/JarFiles (1)/junit-4.10.jar"/>
+	<classpathentry kind="output" path="Persistence/bin"/>
+</classpath>
